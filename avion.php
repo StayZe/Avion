@@ -1,5 +1,4 @@
 <?php
-session_start();
 
 // Classe Avion (Classe mère)
 class Avion
